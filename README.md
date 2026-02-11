@@ -1,4 +1,4 @@
-# Hi, I'm Amogh 👋
+# Hi, I'm Amogh 
 
 ## Aspiring Business Analyst
 
@@ -12,7 +12,7 @@ I am passionate about turning data into business insights.
 - Business Requirement Gathering
 
 ### Projects
-🚧 Currently building Business Analytics projects.
+Currently building Business Analytics projects.
 
 ### Connect with me
 Gmail : lonareamogh@gmail.com 
