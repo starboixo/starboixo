@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Amogh 👋
 
-<!--
-**starboixo/starboixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Business Analyst
 
-Here are some ideas to get you started:
+I am passionate about turning data into business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Excel
+- SQL (learning)
+- Power BI (learning)
+- Data Analysis
+- Business Requirement Gathering
+
+### Projects
+🚧 Currently building Business Analytics projects.
+
+### Connect with me
+Gmail : lonareamogh@gmail.com 
